@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trvl-react/static/css/main.e2ad97fe.chunk.css",
+    "main.js": "/trvl-react/static/js/main.5c62b640.chunk.js",
+    "main.js.map": "/trvl-react/static/js/main.5c62b640.chunk.js.map",
+    "runtime-main.js": "/trvl-react/static/js/runtime-main.52a66fff.js",
+    "runtime-main.js.map": "/trvl-react/static/js/runtime-main.52a66fff.js.map",
+    "static/js/2.50b95a97.chunk.js": "/trvl-react/static/js/2.50b95a97.chunk.js",
+    "static/js/2.50b95a97.chunk.js.map": "/trvl-react/static/js/2.50b95a97.chunk.js.map",
+    "index.html": "/trvl-react/index.html",
+    "static/css/main.e2ad97fe.chunk.css.map": "/trvl-react/static/css/main.e2ad97fe.chunk.css.map",
+    "static/js/2.50b95a97.chunk.js.LICENSE.txt": "/trvl-react/static/js/2.50b95a97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52a66fff.js",
+    "static/js/2.50b95a97.chunk.js",
+    "static/css/main.e2ad97fe.chunk.css",
+    "static/js/main.5c62b640.chunk.js"
+  ]
+}
